@@ -1,0 +1,22 @@
+{
+  "name": "@dillonchr/ephemeraldb",
+  "version": "1.0.0",
+  "description": "a temporary mongodb client that cleans up after itself",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/ephemeraldb.git"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dillonchr/ephemeraldb/issues"
+  },
+  "homepage": "https://github.com/dillonchr/ephemeraldb#readme",
+  "dependencies": {
+    "mongodb": "^3.0.10"
+  }
+}
